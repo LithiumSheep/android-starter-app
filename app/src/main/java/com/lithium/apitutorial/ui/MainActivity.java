@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // TODO: Set your own intent
-        startActivity(new Intent(this, MovieSearchActivity.class));
+        startActivity(new Intent(this, TextDisplayActivity.class));
     }
 }
